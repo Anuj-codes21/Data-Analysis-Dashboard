@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyse the data. This process involved several stages, including data preprocessing , data cleaning, and data visualization .
+# AV Store Data Analysis (Interactive Dashboard Creation using MS Excel)
+## Project Objective
+The AV  Store wants to create an annual sales report for 2026, so that the owner of the  store can understand their customers and grow more sales in 2024 & 2025.
