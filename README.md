@@ -4,7 +4,7 @@ The AV  Store wants to create an annual sales report for 2026, so that the owner
 
 
 
-#Questions (KPIs) 
+# Questions (KPIs) 
 
 Compare the sales and orders using single chart.
 Which month got the highest sales and orders?
@@ -20,17 +20,18 @@ Dashboard Interaction View Dashboard
 
 
 
-#Process
+## Process
 
 Verify data for any missing values and anomalies, and sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
 Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic
 
-#Dashboard
+## Dashboard
 
+  https://github.com/Anuj-codes21/Data-Analysis-Dashboard/blob/main/AV%20Store%20Data%20Analysis%20pic.png
 
-#Project Insight
+## Project Insight
 
 Women customers are more likely to buy products compared to men (~65%).
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
@@ -39,5 +40,6 @@ The maximum number of products customer orders from Amazon, Flipkart and Myntra 
 More than 90% of the products delivered
 
 
-#Final Conclusion:
+#Final Conclusion: 
+
 To improve the sales of AV Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention
