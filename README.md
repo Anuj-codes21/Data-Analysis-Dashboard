@@ -102,7 +102,7 @@ AV Store Data Analysis 2k26.xlsx
 
 ## Dashboard
 
-![Dashboard Preview]( AV Store Data Analysis _pic.png )
+![Dashboard Preview] ( AV Store Data Analysis _pic.png )
 
 
 
