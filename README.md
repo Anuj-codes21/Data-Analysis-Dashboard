@@ -103,7 +103,7 @@ https://github.com/Anuj-codes21/Data-Analysis-Dashboard/blob/main/AV%20Store%20D
 
 ## Dashboard
 
-![Dashboard Preview](AV%20Store%20Data%20Analysis%20pic.png)
+![Dashboard Preview]( AV Store Data Analysis _pic.png )
 
 
 
