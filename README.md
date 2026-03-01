@@ -97,8 +97,7 @@ This project demonstrates the ability to convert raw sales data into an interact
 
 ## Dataset used
 
-https://github.com/Anuj-codes21/Data-Analysis-Dashboard/blob/main/AV%20Store%20Data%20Analysis.xlsx
-
+AV Store Data Analysis 2k26.xlsx
 
 
 ## Dashboard
