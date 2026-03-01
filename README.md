@@ -95,14 +95,11 @@ The dashboard provides clear visibility into sales trends and customer behavior,
 This project demonstrates the ability to convert raw sales data into an interactive and insightful business intelligence dashboard using Microsoft Excel. It highlights strong analytical skills and practical understanding of data-driven decision-making.
 
 
-## Dataset used
+## Dataset
+ [Click here to download dataset](./dataset.xlsx)
 
-AV Store Data Analysis 2k26.xlsx
-
-
-## Dashboard
-
-![Dashboard Preview] ( AV Store Data Analysis _pic.png )
+##  Dashboard Preview
+![Dashboard](./dashboard.png)
 
 
 
